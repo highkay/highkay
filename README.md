@@ -1,10 +1,10 @@
 
 
-- 🔭 I’m currently working on dbappsecurity
+- 🔭 I’m currently working on qingteng
 - 🌱 I’m currently learning Java/Golang/Javascript/Python and ANYTHING interesting
 - 👯 I’m looking to collaborate on cybersecurity ontology
 - 🤔 I’m looking for help with knowledge graph on cybersecurity ontology
-- 💬 Ask me about coding and startup stuff
+- 💬 Ask me about coding, cybersecurity and startup stuff
 - 📫 How to reach me: see bio
 - 😄 Pronouns: Un pour tous, tous pour un
 - ⚡ Fun fact: Maybe an Asperger:)
