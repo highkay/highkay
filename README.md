@@ -1,8 +1,8 @@
 
 
-- 🔭 I’m currently not working
+- 🔭 I’m currently working @afcfalcon
 - 🌱 I’m currently learning Java/Golang/Javascript/Python and ANYTHING interesting
-- 👯 I’m looking to collaborate on cybersecurity architecture
+- 👯 I’m looking to collaborate on cybersecurity architecture, LLM tech stack, Quant
 - 🤔 I’m looking for help with knowledge graph on cybersecurity ontology
 - 💬 Ask me about coding, cybersecurity and startup stuff
 - 📫 How to reach me: see bio
